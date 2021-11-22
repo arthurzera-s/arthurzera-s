@@ -1,9 +1,9 @@
 # Arthur Sampaio
 
-🐍 Desenvolvedor Python
-🐘 Desenvolvedor PHP
-📱 Iniciante em Flutter
-👨‍💻 "Programo, logo existo".
+- 🐍 Desenvolvedor Python
+- 🐘 Desenvolvedor PHP
+- 📱 Iniciante em Flutter
+- 👨‍💻 "Programo, logo existo".
 
 
  ### Meu progresso no github:
